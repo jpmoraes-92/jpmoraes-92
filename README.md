@@ -25,12 +25,6 @@ Acredito que os melhores softwares nascem da união entre um desenvolvimento só
 - [**Ekklesia SaaS**](https://github.com/jpmoraes-92/ekklesia-saas): Sistema SaaS escalável e customizável.
 - [**Fiscal Fácil 3.1**](https://github.com/jpmoraes-92/fiscal-facil-3.1): Ferramenta de automação e facilitação fiscal desenvolvida em Python.
 
-### 📊 Minhas Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpmoraes-92&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub de Juliano" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmoraes-92&layout=compact&theme=radium&hide_border=true" alt="Linguagens mais utilizadas" />
-</p>
-
 ### 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-moraes-927209a7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliano.moraiz@gmail.com)
